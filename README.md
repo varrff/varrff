@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 你好，我是吴家浩
 
-<!--
-**varrff/varrff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+前端开发者 | 3D视觉
 
-Here are some ideas to get you started:
+## 🚀 技术栈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**前端**: JavaScript, Three.js, React, HTML5/CSS3  
+**设计**: Blender, Figma, WebGL  
+
+## 💼 专业技能
+- 🎨 3D网页开发与交互设计
+- 📱 响应式设计与性能优化
+- 🎯 用户体验设计
+
+## 🌟 项目亮点
+
+**作品集** -
+🔗 [newhao2021.top](https://www.newhao2021.top)
+
+## 📱 联系我
+
+📧 newhao2021@outlook.com
+
